@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋</h2>
 <h3 >My name is Sebastian, I'm from Colombia and I'm a Cloud Engineer.</h3>
 
-- 🔭 I’m currently working on [Linktic](https://linktic.com)
-- 🌱 I’m currently learning **Azure DevOps, Python**
+- 🔭 I’m currently working on [Neoris](https://neoris.com)
+- 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [sebaswk/repositories](https://github.com/sebaswk?tab=repositories)
 - 📫 How to reach me: [**in/im-sebastian-zapata**](https://www.linkedin.com/in/im-sebastian-zapata/)
-- 💬 Ask me about: **Cloud | AWS | Kubernetes | Docker | Terraform | Azure DevOps | Networking | Git | Security | Linux**
+- 💬 Ask me about: **AWS | Kubernetes | Docker | Terraform | Azure DevOps | Networking | Git | Security | Linux**
 
 <h1></h1>
 <h3 align="left">Skills</h3>
