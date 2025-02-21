@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋</h2>
-<h3 >My name is Sebastian, I'm from Colombia and I'm a Cloud Engineer.</h3>
+<h3 >My name is Sebastian, I'm from Colombia and I'm a DevOps Engineer.</h3>
 
 - 🔭 I’m currently working on [Neoris](https://neoris.com)
 - 🌱 I’m currently learning **Python**
@@ -26,8 +26,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebaswk&label=Profile%20views&color=0e75b6&style=flat" alt="sebaswk" /> </p>-->
