@@ -11,6 +11,5 @@
 - I have been working in the AWS cloud since 2020
 - Using Kubernetes in Production since 2022
 - AWS, Terraform, Docker, all the cloud stuff
-- Building infrastructure as code in Terraform
 - CI/CD on Azure DevOps, GitHub Actions, Jenkins
 - Some Python coding.
