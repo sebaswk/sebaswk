@@ -3,6 +3,7 @@
 
 - Currently working for [Periferia IT Group](https://periferiaitgroup.com) as a DevOps Engineer.
 - How to reach me: [**in/im-sebastian-zapata**](https://www.linkedin.com/in/im-sebastian-zapata/)
+- My CV: [Sebastian.cv](https://sebaswk.github.io/cv/)
 - Ask me about: **AWS | Kubernetes | Docker | Azure DevOps | Terraform | Networking | Git | Security | Linux**
 
 <h1></h1>
